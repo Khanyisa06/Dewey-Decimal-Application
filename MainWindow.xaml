@@ -1,0 +1,15 @@
+﻿<Window x:Class="LibraryTrainer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryTrainer"
+        mc:Ignorable="d"
+        Title="Dewey Decimal System" Height="550" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel>
+            <Label Content="Dewey Decimal System" HorizontalAlignment="Center" VerticalAlignment="Top" FontWeight="Bold" Background="BlanchedAlmond" BorderThickness="3" BorderBrush="Black"  FontSize="40" FontFamily="Ebrima" FontStyle="Normal" Width="800" HorizontalContentAlignment="Center" MouseLeftButtonDown="title_Click"  />
+        </StackPanel>
+        <Frame x:Name="MainFrame"  Margin="0,70,0,0"  NavigationUIVisibility="Hidden" Visibility="Visible" />
+    </Grid>
+</Window>

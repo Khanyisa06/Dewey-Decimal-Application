@@ -1,0 +1,60 @@
+000-Computer science, information, & general works/000-Computer science, knowledge, & systems/001-Computer science, information, & general works
+000-Computer science, information, & general works/000-Computer science, knowledge, & systems/003-Systems
+000-Computer science, information, & general works/030-Encyclopaedias & books of facts/030-General encyclopaedic works
+000-Computer science, information, & general works/030-Encyclopaedias & books of facts/037-Encyclopaedias in Slavic languages
+000-Computer science, information, & general works/090-Manuscripts & rare books/093-Incunabula
+000-Computer science, information, & general works/090-Manuscripts & rare books/098-Prohibited works, forgeries, & hoaxes
+100-Philosophy & psychology/100-Philosophy/101-Theory of philosophy
+100-Philosophy & psychology/100-Philosophy/102-Miscellany
+100-Philosophy & psychology/150-Psychology/153-Mental processes & intelligence
+100-Philosophy & psychology/150-Psychology/158-Applied psychology
+100-Philosophy & psychology/190-Modern western philosophy/190-Modern western philosophy
+100-Philosophy & psychology/190-Modern western philosophy/199-Philosophy in other geographic areas
+200-Religion/200-Religion/201-Religious mythology & social theology
+200-Religion/200-Religion/202-Religious ethics
+200-Religion/210-Philosophy & theory of religion/215-Science & Religion
+200-Religion/210-Philosophy & theory of religion/218-Humankind
+200-Religion/290-Other religions/292-Greek & Roman religion
+200-Religion/290-Other religions/293-Germanic religion
+300-Social sciences/310-Statistics/310-Collections of general statistics
+300-Social sciences/310-Statistics/316-General statistics of Africa
+300-Social sciences/370-Education/374-Adult education
+300-Social sciences/370-Education/378-Higher education
+300-Social sciences/390-Customs, etiquette, & folklore/391-Costume & personal appearance
+300-Social sciences/390-Customs, etiquette, & folklore/398-Folklore
+400-Language/410-Linguistics/412-Etymology
+400-Language/410-Linguistics/415-Grammar
+400-Language/470-Latin & Italic languages/472-Classical Latin etymology
+400-Language/470-Latin & Italic languages/477-Old, postclassical, & Vulgar Latin
+400-Language/480-Classical & modern Greek languages/481-Classical Greek writing & phonology
+400-Language/480-Classical & modern Greek languages/481-Classical Greek writing & phonology
+500-Science/510-Mathematics/513-Arithmetic
+500-Science/510-Mathematics/519-Probabilities & applied mathematics
+500-Science/520-Astronomy/523-Specific celestial bodies & phenomena
+500-Science/520-Astronomy/527-Celestial navigation
+500-Science/530-Physics/534-Sound & related vibrations
+500-Science/530-Physics/539-Modern physics
+600-Technology/610-Medicine & health/612-Human physiology
+600-Technology/610-Medicine & health/616-Diseases
+600-Technology/620-Engineering/621-Applied physics
+600-Technology/620-Engineering/627-Hydraulic engineering
+600-Technology/660-Chemical engineering/661-Industrial chemicals
+600-Technology/660-Chemical engineering/669-Metallurgy
+700-Arts & recreation/760-Graphic arts/765-Metal engraving
+700-Arts & recreation/760-Graphic arts/769-Prints
+700-Arts & recreation/780-Music/781-General principles & musical forms
+700-Arts & recreation/780-Music/786-Keyboard & other instruments
+700-Arts & recreation/790-Sports, games & entertainment/794-Indoor games of skill
+700-Arts & recreation/790-Sports, games & entertainment/797-Aquatic & air sports
+800-Literature/800-Literature, rhetoric, & criticism/801-Literature & rhetoric
+800-Literature/800-Literature, rhetoric, & criticism/805-Serial publications
+800-Literature/870-Latin & Italic languages/871-Latin poetry
+800-Literature/870-Latin & Italic languages/877-Latin humour & satire
+800-Literature/880-Classical & modern Greek literatures/883-Classical Greek epic poetry & fiction
+800-Literature/880-Classical & modern Greek literatures/889-Modern Greek literature
+900-History & geography/900-History/904-Collected accounts of events
+900-History & geography/900-History/909-World history
+900-History & geography/910-Geography & travel/912-Atlases, maps, charts, & plans
+900-History & geography/910-Geography & travel/913-Geography of & travel in ancient world
+900-History & geography/930-History of ancient world (to ca. 499)/932-Egypt to 640
+900-History & geography/930-History of ancient world (to ca. 499)/938-Greece to 323

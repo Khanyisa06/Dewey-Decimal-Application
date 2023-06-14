@@ -1,0 +1,21 @@
+﻿<Page x:Class="LibraryTrainer.Game1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LibraryTrainer"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Game 1 - Replace Books"
+      Height="450" Width="800">
+
+    <Grid>
+        <Button x:Name="btnStart" FontWeight="Bold" Background="BlanchedAlmond" BorderThickness="3" BorderBrush="Black" HorizontalAlignment="Center" VerticalAlignment="Top" MinHeight="40" MinWidth="100" Margin="0,65,0,0" Click="btnStart_Click">Generate Call numbers</Button>
+        <Button x:Name="btnBack" FontWeight="Bold" Background="BlanchedAlmond" BorderThickness="3" BorderBrush="Black" HorizontalAlignment="Left" VerticalAlignment="Top" MinHeight="40" MinWidth="100" Margin="451,380,0,0" Width="119" Click="btnBack_Click">Back To Main Manu</Button>
+        <ListBox x:Name="lbxSystemList" Width="260" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="10,2"/>
+        <Button x:Name="btnEnd" FontWeight="Bold" Background="BlanchedAlmond" BorderThickness="3" BorderBrush="Black" HorizontalAlignment="Left" VerticalAlignment="Top" MinHeight="40" MinWidth="100" Margin="238,380,0,0" Click="btnEnd_Click" >Check Call numbersOder</Button>
+        <Label x:Name="lblScore" Content="Your Score:" HorizontalAlignment="Center" Margin="0,334,0,0" VerticalAlignment="Top" Width="Auto"/>
+        <Label x:Name="lblheader"  FontStyle="Italic" FontWeight="Bold"  Content=" To Sort the Call Numbers in Ascending Order &#xD;&#xA; Drag the  the call numbers into their correct Ascending order:" HorizontalAlignment="Left" Margin="186,12,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblHighScore" Content="High Score: 0" HorizontalAlignment="Left" Margin="596,22,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Ebrima"/>
+    </Grid>
+</Page>

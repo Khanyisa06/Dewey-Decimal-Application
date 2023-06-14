@@ -1,0 +1,23 @@
+﻿<Page x:Class="DeweyDecimalSystem.Game3Manu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:DeweyDecimalSystem"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Game3Manu">
+
+    <Grid>
+
+        <Button Background="BlanchedAlmond" BorderThickness="3" FontSize="20" Foreground="Black" FontWeight="Bold" Content="Load text data" HorizontalAlignment="Left" Margin="30,71,0,0" VerticalAlignment="Top" Height="82" Width="211" Click="Button_Click"/>
+        <ListBox x:Name="Listbox" Margin="286,71,147,15">
+            <TextBlock TextWrapping="Wrap" FontSize="20" Foreground="Black" FontWeight="Bold" Text="Call Numbers text data" />
+        </ListBox>
+        <Button   FontWeight="Bold" Background="BlanchedAlmond" BorderThickness="3" BorderBrush="Black" Content="Play Game " Margin="30,194,559,169" Click="Button_Click_2"/>
+        <Button   FontWeight="Bold" Background="BlanchedAlmond" BorderThickness="3" BorderBrush="Black" Content="Back" Margin="30,317,559,36" Click="Button_Click_1"/>
+        
+
+
+    </Grid>
+</Page>

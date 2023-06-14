@@ -1,0 +1,24 @@
+﻿<Page x:Class="LibraryTrainer.Game2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LibraryTrainer"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Game2">
+
+    <Grid>
+        <Button x:Name="btnStart" FontWeight="Bold" Background="BlanchedAlmond" BorderThickness="3" BorderBrush="Black" HorizontalAlignment="Center" VerticalAlignment="Top" MinHeight="40" MinWidth="100" Margin="0,18,0,0" Click="btnStart_Click">Match Columns</Button>
+        <Label x:Name="lblQheader" FontStyle="Italic" FontWeight="Bold" Content="Column A" HorizontalAlignment="Left" Margin="75,113,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="lbxQList" Width="260" HorizontalAlignment="Left" VerticalAlignment="Center" Padding="10,2" Margin="75,0,0,0"/>
+        <Label x:Name="lblAheader" FontStyle="Italic" FontWeight="Bold"  Content=" To Match the TOP 4 Items with the Questions &#xD;&#xA; Drag and drop Answers to Match the right Questions" HorizontalAlignment="Center" Margin="0,63,0,0" VerticalAlignment="Top" Width="391"/>
+        <ListBox x:Name="lbxAList" Width="260" HorizontalAlignment="Right" VerticalAlignment="Center" Padding="10,2" Margin="0,0,75,0"/>
+        <Button x:Name="btnEnd" FontWeight="Bold" Background="BlanchedAlmond" BorderThickness="3" BorderBrush="Black" HorizontalAlignment="Center" VerticalAlignment="Top" MinHeight="40" MinWidth="100" Margin="0,390,0,0" Click="btnEnd_Click" >Verify Answers</Button>
+        <Label x:Name="lblScore" Content="Points" HorizontalAlignment="Center" Margin="0,334,0,0" VerticalAlignment="Top" Width="Auto"/>
+        <Label x:Name="lblConcScore" Content="current Score:" HorizontalAlignment="Center" Margin="0,360,0,0" VerticalAlignment="Top" Width="Auto"/>
+        <Label x:Name="lblQheader_Copy" FontWeight="Bold"  Content="Column B" HorizontalAlignment="Left" Margin="534,105,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnEnd_Copy" FontWeight="Bold" Background="BlanchedAlmond" BorderThickness="3" BorderBrush="Black" HorizontalAlignment="Left" VerticalAlignment="Top" MinHeight="40" MinWidth="100" Margin="534,390,0,0"   Content="Back to Main Manu" Click="btnEnd_Copy_Click" />
+
+    </Grid>
+</Page>

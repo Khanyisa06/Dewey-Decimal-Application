@@ -1,0 +1,132 @@
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\bin\Debug\net6.0-windows\DeweyDecimalSystem.exe
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\bin\Debug\net6.0-windows\DeweyDecimalSystem.deps.json
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\bin\Debug\net6.0-windows\DeweyDecimalSystem.runtimeconfig.json
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\bin\Debug\net6.0-windows\DeweyDecimalSystem.dll
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\bin\Debug\net6.0-windows\DeweyDecimalSystem.pdb
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\DeweyDecimalSystem.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\Game1.g.cs
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\Game1_Replace.g.cs
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\Game2.g.cs
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\Game3.g.cs
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\MainMenu.g.cs
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\DeweyDecimalSystem_MarkupCompile.cache
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\DeweyDecimalSystem_MarkupCompile.lref
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\Game1.baml
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\Game1_Replace.baml
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\Game2.baml
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\Game3.baml
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\MainMenu.baml
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\DeweyDecimalSystem.g.resources
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\DeweyDecimalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\DeweyDecimalSystem.AssemblyInfoInputs.cache
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\DeweyDecimalSystem.AssemblyInfo.cs
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\DeweyDecimalSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\DeweyDecimalSystem.dll
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\refint\DeweyDecimalSystem.dll
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\DeweyDecimalSystem.pdb
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\DeweyDecimalSystem.genruntimeconfig.cache
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\ref\DeweyDecimalSystem.dll
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\Game3Manu.g.cs
+C:\Users\User\Documents\PROG7312-POE-LibraryTrainer-master\PROG7312-POE-LibraryTrainer-master\obj\Debug\net6.0-windows\Game3Manu.baml
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\bin\Debug\net6.0-windows\DeweyDecimalSystem.exe
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\bin\Debug\net6.0-windows\DeweyDecimalSystem.deps.json
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\bin\Debug\net6.0-windows\DeweyDecimalSystem.runtimeconfig.json
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\bin\Debug\net6.0-windows\DeweyDecimalSystem.dll
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\bin\Debug\net6.0-windows\DeweyDecimalSystem.pdb
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\DeweyDecimalSystem.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\Game1.g.cs
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\Game1_Replace.g.cs
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\Game2.g.cs
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\Game3.g.cs
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\Game3Manu.g.cs
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\MainMenu.g.cs
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\DeweyDecimalSystem_MarkupCompile.cache
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\DeweyDecimalSystem_MarkupCompile.lref
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\Game1.baml
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\Game1_Replace.baml
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\Game2.baml
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\Game3.baml
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\Game3Manu.baml
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\MainMenu.baml
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\DeweyDecimalSystem.g.resources
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\DeweyDecimalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\DeweyDecimalSystem.AssemblyInfoInputs.cache
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\DeweyDecimalSystem.AssemblyInfo.cs
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\DeweyDecimalSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\DeweyDecimalSystem.dll
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\refint\DeweyDecimalSystem.dll
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\DeweyDecimalSystem.pdb
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\DeweyDecimalSystem.genruntimeconfig.cache
+C:\Users\User\Documents\PROG7312-POE\PROG7312-POE\obj\Debug\net6.0-windows\ref\DeweyDecimalSystem.dll
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\bin\Debug\net6.0-windows\DeweyDecimalSystem.exe
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\bin\Debug\net6.0-windows\DeweyDecimalSystem.deps.json
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\bin\Debug\net6.0-windows\DeweyDecimalSystem.runtimeconfig.json
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\bin\Debug\net6.0-windows\DeweyDecimalSystem.dll
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\bin\Debug\net6.0-windows\DeweyDecimalSystem.pdb
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game1.g.cs
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game1_Replace.g.cs
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game2.g.cs
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game3.g.cs
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game3Manu.g.cs
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\MainMenu.g.cs
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem_MarkupCompile.cache
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem_MarkupCompile.lref
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game1.baml
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game1_Replace.baml
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game2.baml
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game3.baml
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game3Manu.baml
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\MainMenu.baml
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.g.resources
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.AssemblyInfo.cs
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.dll
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\refint\DeweyDecimalSystem.dll
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.pdb
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.genruntimeconfig.cache
+C:\Users\User\Documents\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\ref\DeweyDecimalSystem.dll
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\bin\Debug\net6.0-windows\DeweyDecimalSystem.exe
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\bin\Debug\net6.0-windows\DeweyDecimalSystem.deps.json
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\bin\Debug\net6.0-windows\DeweyDecimalSystem.runtimeconfig.json
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\bin\Debug\net6.0-windows\DeweyDecimalSystem.dll
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\bin\Debug\net6.0-windows\DeweyDecimalSystem.pdb
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.csproj.AssemblyReference.cache
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game1.g.cs
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game1_Replace.g.cs
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game2.g.cs
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game3.g.cs
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game3Manu.g.cs
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\MainMenu.g.cs
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\App.g.cs
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem_MarkupCompile.cache
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem_MarkupCompile.lref
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game1.baml
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game1_Replace.baml
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game2.baml
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game3.baml
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\Game3Manu.baml
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\MainMenu.baml
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\MainWindow.baml
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.g.resources
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.AssemblyInfoInputs.cache
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.AssemblyInfo.cs
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.csproj.CoreCompileInputs.cache
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.dll
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\refint\DeweyDecimalSystem.dll
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.pdb
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\DeweyDecimalSystem.genruntimeconfig.cache
+C:\BCAD3 RESOURCES\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\ST10119449-VUTOMI KHOSA- PROG7312-POE-Resubmission\Source Code\obj\Debug\net6.0-windows\ref\DeweyDecimalSystem.dll
